@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "52ovqzbNpW9a6gZBykCl/35psc9KJe0EQD5B1eGupOg=",
+  "Source": "mensajeria",
+  "BasePath": "_content/mensajeria",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "mensajeria\\wwwroot",
+      "Source": "mensajeria",
+      "ContentRoot": "C:\\Users\\luisa\\Documents\\mensajeria\\mensajeria\\wwwroot\\",
+      "BasePath": "_content/mensajeria",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\luisa\\Documents\\mensajeria\\mensajeria\\wwwroot\\chat.js",
+      "SourceId": "mensajeria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisa\\Documents\\mensajeria\\mensajeria\\wwwroot\\",
+      "BasePath": "_content/mensajeria",
+      "RelativePath": "chat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chat.js"
+    },
+    {
+      "Identity": "C:\\Users\\luisa\\Documents\\mensajeria\\mensajeria\\wwwroot\\index.html",
+      "SourceId": "mensajeria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisa\\Documents\\mensajeria\\mensajeria\\wwwroot\\",
+      "BasePath": "_content/mensajeria",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
